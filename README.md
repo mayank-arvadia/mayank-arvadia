@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayank-arvadia
+- 👋 Hi, I’m Mayank Arvadia
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning MLP and Deep Learning
 - 💞️ I’m looking to collaborate on innovative technologies
